@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="ai-cubpet" path="application/native/ai-cubpet" groups="default,ai-cubpet" />
+</manifest>
